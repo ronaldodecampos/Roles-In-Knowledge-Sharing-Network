@@ -1,0 +1,9 @@
+Source;Target;Type
+Paul;John;directed
+John ;Paul;directed
+Roger;Nancy;directed
+Luke;Nancy;directed
+Nancy;Roger;directed
+Tom;Mary;directed
+Beth;Tom;directed
+Mary;Beth;directed
